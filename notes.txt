@@ -1,0 +1,8 @@
+# Alternative encoder block
+#self.encoder_block_altern = nn.ModuleList([nn.TransformerEncoderLayer(embed_dim, attn_heads, embed_dim*4) for _ in range(n_layers)])
+
+# Alternative forward
+#for block in self.encoder_block2:
+#    out = block(out)
+
+#Open embedding doc, BERT paper, Transformersencoderlayer doc
