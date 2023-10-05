@@ -29,7 +29,7 @@ This repository also contains a corresponding YouTube tutorial with the title **
 * [Usage](#usage)
 * [Contact](#contact)
 
-## ViT Implementation <a class="anchor" id="vitimp"></a>
+## BERT Implementation <a class="anchor" id="vitimp"></a>
 We need two classes to implement BERT. One contains the embeddings, `BertEmbedding` the other contains the BERT itself, `BERT`.
 
 
